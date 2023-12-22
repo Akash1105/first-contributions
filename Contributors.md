@@ -433,6 +433,7 @@
 - [Nilesh Tale](https://github.com/Nilesh-Tale/)
 - [Rohan Srivastava](https://github.com/rohansrivastava5491)
 - [Apurva Dubey](https://github.com/umbridge)
+- [Akash Sancheti](https://github.com/Akash1105)
 - [Sriram Panchapakesan]
 - [Vikas Kumar](https://github.com/Vikas1211K)
 - [Jay Mehta](https://github.com/jaymehta002)
